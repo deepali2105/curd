@@ -6,7 +6,7 @@
  */
 'use strict';
 
-/**********Welcome*************/
+/**********Welcome Back*************/
 
 import React, { Component } from 'react';
 import {throttle} from './utils';

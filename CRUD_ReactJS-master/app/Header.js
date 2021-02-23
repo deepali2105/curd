@@ -4,6 +4,7 @@
  * @since 10/3/2016.
  *
  */
+/*******************/
 'use strict';
 
 import React, {Component, PropTypes} from 'react';

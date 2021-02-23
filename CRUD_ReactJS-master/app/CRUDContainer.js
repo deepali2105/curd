@@ -6,6 +6,8 @@
  */
 'use strict';
 
+/**********Welcome*************/
+
 import React, { Component } from 'react';
 import {throttle} from './utils';
 import 'whatwg-fetch';

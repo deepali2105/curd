@@ -23,7 +23,7 @@ class NewPerson extends Component {
   handleChange(field, value) {
     this.setState({[field]: value});
   }
-
+///////////////////////////////////////////////////////
   handleSubmit(e) {
     e.preventDefault();
     this.props.callBacks.addPerson(this.state);
